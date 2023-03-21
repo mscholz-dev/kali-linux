@@ -1,9 +1,11 @@
 # Mes aliases
 
+[↩️ Retour](./README.md)
+
 ## 1. Modifier le fichier .zshrc
 
 ```bash
-sudo nano ~/.zshrc
+nano ~/.zshrc
 ```
 
 ## 2. Ajouter les aliases à la fin du fichier

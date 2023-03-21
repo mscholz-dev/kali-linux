@@ -1,5 +1,7 @@
 # Ajout de paquet : vscode
 
+[↩️ Retour](./README.md)
+
 ## Prérequis
 
 [Paquet : snap](./paquet-snap.md)
@@ -7,7 +9,7 @@
 ## 1. Installation
 
 ```bash
-sudo snap install code --classic
+snap install code --classic
 ```
 
 ## 2. Lancement

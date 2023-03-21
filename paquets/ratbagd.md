@@ -1,9 +1,11 @@
 # Ajout de paquet : ratbagd
 
+[↩️ Retour](./README.md)
+
 ## 1. Installation
 
 ```bash
-sudo apt install ratbagd
+apt install ratbagd
 ```
 
 ## 2. Trouver le nom du clavier
