@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet d'avoir un éditeur de code avec une multitude de fonctionnalités.
+
 ## Prérequis
 
 [Paquet : snap](./paquet-snap.md)

@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet de changer les paramètres des matériels gaming. Il supporte Etekcity, G.Skill, Roccat, SteelSeries et Logitech.
+
 ## 1. Installation
 
 ```bash

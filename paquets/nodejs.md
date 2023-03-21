@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet l'utilisation de Node JS.
+
 ## 1. Installation
 
 ```bash

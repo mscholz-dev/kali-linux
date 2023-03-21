@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet l'utilisation du système comme bureau distant grâce à un serveur RDP.
+
 ## 1. Installation
 
 ```bash

@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet de gérer la température, la tension, la vitesse des ventilateurs et l'humidité du système.
+
 ## 1. Installation
 
 ```bash

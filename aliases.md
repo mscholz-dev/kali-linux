@@ -11,8 +11,12 @@ nano ~/.zshrc
 ## 2. Ajouter les aliases à la fin du fichier
 
 ```bash
-# custom aliases
+# nettoyer la console
 alias c="clear"
+
+# accès rapide aux dépôts github
 alias projects="~/Documents/projects"
+
+# lancer vscode
 alias code="snap run code"
 ```

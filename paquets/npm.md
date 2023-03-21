@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet de gérer les paquets node ainsi que leurs versions.
+
 ## 1. Installation
 
 ```bash

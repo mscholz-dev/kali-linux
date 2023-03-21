@@ -2,7 +2,7 @@
 
 [↩️ Retour](../README.md)
 
-1. [snap](./snap.md)
+1. [snapd](./snapd.md)
 2. [vscode](./vscode.md)
 3. [flatpak](./flatpak.md)
 4. [gedit](./gedit.md)

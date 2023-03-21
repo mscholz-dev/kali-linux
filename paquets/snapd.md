@@ -1,6 +1,10 @@
-# Ajout de paquet : snap
+# Ajout de paquet : snapd
 
 [↩️ Retour](./README.md)
+
+## Description
+
+Permet l'installation de nouvelles versions de logiciels.
 
 ## 1. Installation
 

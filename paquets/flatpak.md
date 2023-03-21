@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet l'installation d'applications facilement et rapidement.
+
 ## 1. Installation de flatpak
 
 ```bash

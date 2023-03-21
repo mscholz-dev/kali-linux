@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet d'utiliser Github en ligne de commande.
+
 ## 1. Installation
 
 ```bash
@@ -14,4 +18,4 @@ apt install gh
 gh auth login
 ```
 
-#TODO vérifer et ajouter le clonage
+TODO: vérifer et ajouter le clonage

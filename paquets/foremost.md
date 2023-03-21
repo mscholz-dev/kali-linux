@@ -2,6 +2,10 @@
 
 [↩️ Retour](./README.md)
 
+## Description
+
+Permet la récupération de fichiers supprimés.
+
 ## 1. Installation
 
 ```bash
