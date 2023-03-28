@@ -17,4 +17,7 @@ apt install git
 ```bash
 git config --global user.name [NOM]
 git config --global user.email [EMAIL]
+
+# main comme nom de branche par défaut
+git config --global init.defaultBranch main
 ```

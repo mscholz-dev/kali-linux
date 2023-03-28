@@ -19,4 +19,7 @@ alias projects="~/Documents/projects"
 
 # lancer vscode
 alias code="snap run code"
+
+# accès rapide aux outils (hacking)
+alias tools="~/Documents/tools"
 ```
