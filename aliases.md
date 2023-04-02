@@ -24,5 +24,5 @@ alias code="snap run code"
 alias tools="~/Documents/tools"
 
 # lancer mechvibes sans recevoir ou tenir le terminal (changer le chemin)
-setsid ./Documents/tools/mechvibes/opt/Mechvibes/mechvibes &>/dev/null
+alias tws="cd ~ && setsid ./Documents/tools/mechvibes/opt/Mechvibes/mechvibes &>/dev/null"
 ```
