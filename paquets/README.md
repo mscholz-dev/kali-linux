@@ -15,5 +15,5 @@
 11. [xrdp](./xrdp.md)
 12. [git](./git.md)
 13. [gh](./gh.md)
-14. [react-native-cli](./react-native-cli.md)
-15. [react-native](./react-native.md)
+14. [react-native](./react-native.md)
+15. [nvm](./nvm.md)
