@@ -1,3 +1,5 @@
+# Fonctionnalité : enregister l'écran
+
 ## Trouver la valeur "windowid" de la fenêtre à enregistrer
 
 ```bash

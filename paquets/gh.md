@@ -17,5 +17,3 @@ apt install gh
 ```bash
 gh auth login
 ```
-
-TODO: vérifer et ajouter le clonage
