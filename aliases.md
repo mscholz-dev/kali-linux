@@ -25,4 +25,7 @@ alias tools="~/Documents/tools"
 
 # lancer mechvibes sans recevoir ou tenir le terminal (changer le chemin)
 alias tws="cd ~ && setsid ./Documents/tools/mechvibes/opt/Mechvibes/mechvibes &>/dev/null"
+
+# lancer postman
+alias postman="snap run postman"
 ```
