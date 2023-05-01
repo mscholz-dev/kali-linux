@@ -31,5 +31,5 @@ mv 10-million-password-list-top-1000000.txt pswd.txt
 ## 6. Lancer l'attaque
 
 ```bash
-perl XBruteForcer.pl -l list.txt -p paswd.txt
+perl XBruteForcer.pl -l list.txt -p pswd.txt
 ```
