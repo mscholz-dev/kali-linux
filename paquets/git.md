@@ -19,5 +19,8 @@ git config --global user.name [NOM]
 git config --global user.email [EMAIL]
 
 # main comme nom de branche par défaut
-git config --global init.defaultBranch main
+git config --global init.defaultBranch maint
+
+# en cas de conflit, merge par défaut
+git config --global pull.rebase false
 ```
