@@ -18,3 +18,5 @@
 14. [react-native](./react-native.md)
 15. [nvm](./nvm.md)
 16. [postman](./postman.md)
+17. [discord](./discord.md)
+18. [chromium](./chromium.md)
