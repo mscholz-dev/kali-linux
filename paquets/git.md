@@ -23,4 +23,7 @@ git config --global init.defaultBranch maint
 
 # en cas de conflit, merge par défaut
 git config --global pull.rebase false
+
+# changer checkout en co (alias)
+git config --global alias.co checkout
 ```
