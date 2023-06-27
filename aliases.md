@@ -30,3 +30,9 @@ alias tws="cd ~ && setsid ./Documents/tools/mechvibes/opt/Mechvibes/mechvibes &>
 alias postman="setsid snap run postman &>/dev/null"
 
 ```
+
+## 3. Mettre à jour les aliases du fichier .zshrc
+
+```bash
+source ~/.zshrc
+```
