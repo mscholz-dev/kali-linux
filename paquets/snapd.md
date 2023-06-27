@@ -22,4 +22,5 @@ systemctl enable snapd.apparmor
 
 ```bash
 service snapd.apparmor start
+sudo service snapd start
 ```
