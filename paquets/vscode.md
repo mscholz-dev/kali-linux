@@ -8,7 +8,7 @@ Permet d'avoir un éditeur de code avec une multitude de fonctionnalités.
 
 ## Prérequis
 
-[Paquet : snap](./snap.md)
+[Paquet : snap](./snapd.md)
 
 ## 1. Installation
 
