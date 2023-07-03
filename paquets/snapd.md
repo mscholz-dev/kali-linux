@@ -23,6 +23,7 @@ systemctl enable snapd.apparmor
 ```bash
 service snapd.apparmor start
 service snapd start
-apparmor_parser -r /etc/apparmor.d/*snap-confine*
-apparmor_parser -r /var/lib/snapd/apparmor/profiles/snap-confine*
+
+systemctl enable --now apparmor.service
+systemctl enable --now snapd.apparmor.service
 ```
