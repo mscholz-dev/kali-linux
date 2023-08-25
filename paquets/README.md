@@ -20,3 +20,4 @@
 16. [postman](./postman.md)
 17. [discord](./discord.md)
 18. [chromium](./chromium.md)
+19. [stripe CLI](./stripe.md)
