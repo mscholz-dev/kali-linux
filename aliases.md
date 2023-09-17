@@ -11,23 +11,15 @@ nano ~/.zshrc
 ## 2. Ajouter les aliases à la fin du fichier
 
 ```bash
-# nettoyer la console
+# (facultatif) lancer mechvibes sans recevoir ou tenir le terminal (changer le chemin)
+# alias tws="cd ~ && setsid ./Documents/tools/mechvibes/opt/Mechvibes/mechvibes &>/dev/null"
 alias c="clear"
-
-# accès rapide aux dépôts github
-alias projects="~/Documents/projects"
-
-# lancer vscode
+alias projects="/home/ilak/Documents/projects"
 alias code="snap run code"
-
-# accès rapide aux outils (hacking)
-alias tools="~/Documents/tools"
-
-# lancer mechvibes sans recevoir ou tenir le terminal (changer le chemin)
-alias tws="cd ~ && setsid ./Documents/tools/mechvibes/opt/Mechvibes/mechvibes &>/dev/null"
-
-# lancer postman sans recevoir ou tenir le terminal
 alias postman="setsid snap run postman &>/dev/null"
+alias journalstart="sudo systemctl stop systemd-journald"
+alias journalrm="sudo rm -r /var/log/journal/*"
+alias journalstop="sudo systemctl start systemd-journald"
 
 ```
 
