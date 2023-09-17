@@ -20,7 +20,7 @@ alias postman="setsid snap run postman &>/dev/null"
 alias journalstart="sudo systemctl stop systemd-journald"
 alias journalrm="sudo rm -r /var/log/journal/*"
 alias journalstop="sudo systemctl start systemd-journald"
-
+alias discord="setsid snap run discord &>/dev/null"
 ```
 
 ## 3. Mettre à jour les aliases du fichier .zshrc
