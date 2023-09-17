@@ -26,4 +26,7 @@ service snapd start
 
 systemctl enable --now apparmor.service
 systemctl enable --now snapd.apparmor.service
+
+systemctl enable snapd
+systemctl start snapd
 ```
